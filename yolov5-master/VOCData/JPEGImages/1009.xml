@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1009.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\test1\images\1009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1840</width>
+		<height>1276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turn left or right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>330</ymin>
+			<xmax>1577</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	</object>
+</annotation>

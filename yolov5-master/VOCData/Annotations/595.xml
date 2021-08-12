@@ -1,0 +1,50 @@
+<annotation>
+	<folder>output1</folder>
+	<filename>595.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\test1\output1\595.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>685</width>
+		<height>636</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stay now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>10</ymin>
+			<xmax>627</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>237</ymin>
+			<xmax>629</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>479</ymin>
+			<xmax>634</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>

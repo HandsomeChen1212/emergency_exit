@@ -1,0 +1,134 @@
+<annotation>
+	<folder>output1</folder>
+	<filename>342.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\test1\output1\342.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1181</width>
+		<height>1181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turn left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>216</ymin>
+			<xmax>394</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>216</ymin>
+			<xmax>735</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left or right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>218</ymin>
+			<xmax>1077</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stay now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>373</ymin>
+			<xmax>388</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>368</ymin>
+			<xmax>739</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>787</xmin>
+			<ymin>368</ymin>
+			<xmax>1080</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stay now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>521</ymin>
+			<xmax>392</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>445</xmin>
+			<ymin>523</ymin>
+			<xmax>742</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>523</ymin>
+			<xmax>1079</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stay now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>679</ymin>
+			<xmax>390</xmax>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+</annotation>

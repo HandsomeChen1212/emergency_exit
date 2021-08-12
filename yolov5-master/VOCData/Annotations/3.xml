@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output1</folder>
+	<filename>3.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\test1\output1\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2007</width>
+		<height>1623</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turn left or right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>71</ymin>
+			<xmax>1931</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left or right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>936</ymin>
+			<xmax>1937</xmax>
+			<ymax>1539</ymax>
+		</bndbox>
+	</object>
+</annotation>

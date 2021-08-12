@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>12.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\yolov5-master\VOCData\images\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1519</xmin>
+			<ymin>1108</ymin>
+			<xmax>2602</xmax>
+			<ymax>1446</ymax>
+		</bndbox>
+	</object>
+</annotation>

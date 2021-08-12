@@ -1,0 +1,86 @@
+<annotation>
+	<folder>output1</folder>
+	<filename>371.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\test1\output1\371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stay now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>34</ymin>
+			<xmax>140</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left or right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>32</ymin>
+			<xmax>277</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>83</ymin>
+			<xmax>276</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>84</ymin>
+			<xmax>141</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>229</ymin>
+			<xmax>275</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>228</ymin>
+			<xmax>143</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

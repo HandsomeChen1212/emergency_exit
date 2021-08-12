@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output1</folder>
+	<filename>524.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\test1\output1\524.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>289</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stay now</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>14</ymin>
+			<xmax>174</xmax>
+			<ymax>34</ymax>
+		</bndbox>
+	</object>
+</annotation>

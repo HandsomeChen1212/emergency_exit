@@ -1,0 +1,38 @@
+<annotation>
+	<folder>output1</folder>
+	<filename>484.jpg</filename>
+	<path>C:\Users\60080\PycharmProjects\test1\output1\484.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>994</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>677</ymin>
+			<xmax>902</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>turn right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>688</ymin>
+			<xmax>417</xmax>
+			<ymax>803</ymax>
+		</bndbox>
+	</object>
+</annotation>
